@@ -2,14 +2,14 @@
 
 ### Useful terminal commands:
 - `cd` -> [__C__hange the shell working __D__irectory](http://linuxcommand.org/lc3_man_pages/cdh.html)
-- `ls` -> [__L__i __S__ t directory contents](http://linux.die.net/man/1/ls)
+- `ls` -> [__L__i<strong>S</strong>t directory contents](http://linux.die.net/man/1/ls)
 - `mv` -> [__M__o<strong>V</strong>e (rename) files](http://linux.die.net/man/1/mv)
 - `pwd` -> [__P__resent __W__orking __D__irectory](http://linux.die.net/man/1/pwd)
 
 ### Some aliases
-- `..` -> parent directory
-- `.` -> current directory
 - `~` -> "home" directory
+- `.` -> current directory
+- `..` -> parent directory
 
 ### The action
 
