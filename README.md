@@ -17,13 +17,19 @@ I think that in order to log into rhino from home that you will need to tell you
 
 - Editing the `~/.ssh/config` file also known as `/Users/kitcurtius/.ssh/config` (use sublime for this I suppose).
 
-- Copy and paste the following into the bottom of that file. 
+- Copy and paste the following into the bottom of that file if it exists. You'll need to create it if it doesn't, skip ahead to the next step for that.
 
 ```
 Host rhino              # rhino is a handy alias name 
 HostName 192.168.1.45   # the number is the IP address of the machine, I don't know what it really is  
 Port 2222               # very unlikely to be a different port number, this is the de facto port number for ssh connections 
 ```
+
+- If you need to create this file:
+  - `cd` alone returns you to the home directory = `~` = `/Users/kitcurtius`
+  - `mkdir .ssh` makes a `/Users/kitcurtius/.ssh` directory
+  - `cd .ssh` moves you into the `.ssh directory`
+  - `touch config` makes a config file
 
 - Edit the IP address on line #2 to be whatever IT tells you it is.
 
