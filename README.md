@@ -31,7 +31,7 @@ Port 2222               # very unlikely to be a different port number, this is t
   - `cd .ssh` moves you into the `.ssh directory`
   - `touch config` makes a config file
 
-- Edit the IP address on line #2 to be whatever IT tells you it is.
+- Finally: __Edit the IP address on line #2 to be whatever IT tells you it is.__
 
 ### This is a very brief first pass that will likely need to be refined.
 There may be some "tunneling" or something that necessary, but I'm curious to see how far this gets your first before going there.
