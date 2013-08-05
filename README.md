@@ -21,8 +21,10 @@ I think that in order to log into rhino from home that you will need to tell you
 
 ```
 Host rhino              # rhino is a handy alias name 
-HostName 192.168.1.45   # the number is the IP address of the machine, I don't know what it really is  
-Port 2222               # very unlikely to be a different port number, this is the de facto port number for ssh connections 
+HostName 192.168.1.45   # the number is the IP address of the machine. 
+                        # I don't know what it really is  
+Port 2222               # very unlikely to be a different port number. 
+                        # This is the de facto port number for ssh connections 
 ```
 
 - If you need to create this file:
