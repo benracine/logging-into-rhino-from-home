@@ -2,8 +2,8 @@
 
 ### Useful terminal commands:
 - `cd` -> [__C__hange the shell working __D__irectory](http://linuxcommand.org/lc3_man_pages/cdh.html)
-- `ls` -> [__L__i__S__t directory contents](http://linux.die.net/man/1/ls)
-- `mv` -> [__M__o__V__e (rename) files](http://linux.die.net/man/1/mv)
+- `ls` -> [__L__i __S__ t directory contents](http://linux.die.net/man/1/ls)
+- `mv` -> [__M__o __V__ e (rename) files](http://linux.die.net/man/1/mv)
 - `pwd` -> [__P__resent __W__orking __D__irectory](http://linux.die.net/man/1/pwd)
 
 ### Some aliases
@@ -13,7 +13,7 @@
 
 ### The action
 
-I think that in order to log into rhino from home that you will need to tell your mac a little bit more about what rhino really is. I am probably bungling your usernames throughout. This is done by:
+I think that in order to log into rhino from home that you will need to tell your macbook a little bit more about what rhino really is. I am probably bungling your usernames throughout. This is done by:
 
 - Editing the `~/.ssh/config` file also known as `/Users/kitcurtius/.ssh/config` (use sublime for this I suppose).
 
