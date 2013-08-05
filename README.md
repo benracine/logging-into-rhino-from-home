@@ -28,4 +28,4 @@ Port 2222               # very unlikely to be a different port number, this is t
 - Edit the IP address on line #2 to be whatever IT tells you it is.
 
 ### This is a very brief first pass that will likely need to be refined.
-Then I would think you could ssh in from home... though there might be more to it, e.g. some "tunneling" or something that I would need to look up.
+There may be some "tunneling" or something that necessary, but I'm curious to see how far this gets your first before going there.
